@@ -33,9 +33,10 @@ The goal was to clean and prepare raw transactional data, analyze sales trends w
 ---
 
 ## 📂 Files in this Repository
-- `Coffee_Shop_Dashboard.xlsx` → Interactive dashboard file  
-- `Coffee_Shop_Dashboard.pdf` → Static PDF version for quick viewing  
-- `Coffee_Shop_Sales.xlsx` → Cleaned dataset used for the project 
+- [Coffee_Shop_Dashboard.xlsx](Coffee_Shop_Dashboard.xlsx) → Interactive dashboard file  
+- [Coffee_Shop_Dashboard.pdf](Coffee_Shop_Dashboard.pdf) → Static PDF version for quick viewing  
+- [Coffee_Shop_Sales.xlsx](Coffee_Shop_Sales.xlsx) → Cleaned dataset used for the project  
+
 
 ---
 
