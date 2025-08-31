@@ -55,4 +55,4 @@ The goal was to clean and prepare raw transactional data, analyze sales trends w
 ---
 
 ## 🔗 Project Link
-View the project on GitHub: [Coffee Shop Sales Dashboard](https://github.com/venmuhilbharathi-g/excel_dashboard_projects)  
+View the project on GitHub: [Coffee Shop Sales Dashboard](https://github.com/venmuhilbharathi-g/excel-dashboard-projects)  
